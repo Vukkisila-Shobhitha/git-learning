@@ -3,3 +3,4 @@ good evening
 press ctrl+S for save the filegit remote add origin https://github.com/Vukkisila-Shobhitha/git-learning
 get add . -> it will push my files to staging area, where files cannot be edited
 nothing
+remote origin

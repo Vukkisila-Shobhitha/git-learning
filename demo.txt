@@ -4,5 +4,6 @@ press ctrl+S for save the filegit remote add origin https://github.com/Vukkisila
 get add . -> it will push my files to staging area, where files cannot be edited
 nothing
 remote origin
-every time added a things in the document start with the command git add . git commit -m "added new one"  and then git push origin main  
+every time added a things in the document start with the command git add . git commit -m "added new one"  and then git push origin main 
+git and git hub 
 git commands

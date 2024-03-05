@@ -7,3 +7,4 @@ remote origin
 every time added a things in the document start with the command git add . git commit -m "added new one"  and then git push origin main 
 git and git hub 
 git commands
+to create a new branch use command git checkout -b 

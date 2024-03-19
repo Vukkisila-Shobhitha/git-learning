@@ -1,0 +1,71 @@
+
+{
+    "personalInformation": {
+      "firstName": "Shobhitha",
+      "lastName": "Vukkisila",
+      "address": "Anna Nagar, Chennai, Tamil Nadu, 600001",
+      "phone": "8317658511",
+      "email": "shobitha6294@gmail.com"
+    },
+    "professionalSummary": "Having 4years of Teaching Experience and Have learnt Salesforce Administration and Apttus CPQ, Have trained people on Apttus CPQ and Salesforce Administration",
+    "education": {
+      "degree": "Masters in Computer Science and Engineering",
+      "university": "JNTUA University",
+      "graduationYear": 2017
+    },
+    "workExperience": [
+      {
+        "position": "Assistant Professor",
+        "college": "Jawaharlal Nehru Technological University",
+        "location": "Anantapur, Andhra Pradesh",
+        "startDate": "2018-06-02",
+        "endDate": "2022-05-16",
+        "responsibilities": [
+            "Assisted with delivering subjects such as", 
+           " Object oriented programming, C++, Algorithms, Data Structures, Advance Databases and Software Testing for UG and PG",
+            "Hands on experience with all phases of SDLC and STLC and have exposure to agile",
+            "process and methodologies.Have knowledge on software testing methodologies which includes test cases"
+        ]
+      },
+      {
+        "position": "Freelancer",
+        "company": "Upwork",
+        "location": "Remote",
+        "startDate": "2022-11-16",
+        "responsibilities": [
+           "Salesforce CPQ Project", 
+           "Create products",
+            "Create constraint rules", 
+            "Create price lists and price list items",  
+            "Created product pricing based on Attributes and Line-item fields", 
+            "Used Product Attribute Rules for restricting attribute visibility, picklist values",
+            "Created Product visibility rules to filter products on catalog pages", 
+            "Created Proposal Templates using X-Author Contracts", 
+            "Worked on pricing adjustments using Price rules",
+            "Handled Data Security, Reports & Dashboards, auto mated process works",
+            "Write Apex Triggers"
+        ]
+      }
+    ],
+    "skills": [
+      "Lightening Experience",
+      "Salesforce Classic",
+      "Communication Skills",
+      "Problem Solving"
+    ],
+    "certifications": [
+      {
+        "name": "Salesforce Administration 201",
+        "issuingOrganization": "Salesforce",
+        "year": 2023
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Fluent"
+      
+    }
+      ]
+    
+  }

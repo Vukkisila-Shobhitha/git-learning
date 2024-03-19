@@ -1,0 +1,13 @@
+1.	Write a blog on Difference between HTTP1.1 vs HTTP2
+Ans: HTTP1: HTTP1 sends and receives data in a sequential manner, it means that requests and responses must be processed one at a time.
+Each request requires a separate connection, which may lead to delay in the response, mainly for websites with many resources.
+It does not support multiplexing, which means only one request can be processed at a time over a single connection.
+HTTP2: It Introduces the several things to improve performance, including header compression and multiplexing.
+Multiplexing allows multiple requests and responses to be sent and received over a single connection simultaneously, reducing delay and improving efficiency.
+It also supports server push, which allows servers to actively send resources to clients without waiting for a request
+
+2.	Write a blog about objects and its internal representation in JavaScript
+Ans: Object is a collection of key value pairs where each key is a string and each value can be any data type including other objects, functions, arrays, etc., 
+Objects can represent various entities, like a person, a car, a book.
+Internally, JavaScript engines represent objects using various data structures. One common representation is the hash table, where keys are hashed to optimize property access.
+
